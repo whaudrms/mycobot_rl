@@ -1,0 +1,1 @@
+/home/tony/mycobot_rl/devel/.private/mycobot_control/lib/pkgconfig/mycobot_control.pc

@@ -1,0 +1,8 @@
+prefix=/home/tony/mycobot_rl/devel/.private/mycobot_move_it_config
+
+Name: mycobot_move_it_config
+Description: Description of mycobot_move_it_config
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

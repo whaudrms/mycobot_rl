@@ -1,0 +1,8 @@
+prefix=/home/tony/mycobot_rl/devel/.private/mycobot_control
+
+Name: mycobot_control
+Description: Description of mycobot_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

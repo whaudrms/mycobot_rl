@@ -1,0 +1,8 @@
+prefix=/home/tony/mycobot_rl/install
+
+Name: mycobot_description
+Description: Description of mycobot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

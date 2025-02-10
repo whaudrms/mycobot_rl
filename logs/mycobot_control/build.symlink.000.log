@@ -1,0 +1,13 @@
+Symlinking /home/tony/mycobot_rl/devel/share/mycobot_control/cmake/mycobot_controlConfig.cmake
+Symlinking /home/tony/mycobot_rl/devel/share/mycobot_control/cmake/mycobot_controlConfig-version.cmake
+Symlinking /home/tony/mycobot_rl/devel/lib/pkgconfig/mycobot_control.pc
+Cleaning: (/home/tony/mycobot_ws/devel/.private/mycobot_control/cmake.lock, /home/tony/mycobot_ws/devel/./cmake.lock)
+Cleaning: (/home/tony/mycobot_ws/devel/.private/mycobot_control/lib/pkgconfig/mycobot_control.pc, /home/tony/mycobot_ws/devel/lib/pkgconfig/mycobot_control.pc)
+Cleaning: (/home/tony/mycobot_ws/devel/.private/mycobot_control/share/mycobot_control/cmake/mycobot_controlConfig-version.cmake, /home/tony/mycobot_ws/devel/share/mycobot_control/cmake/mycobot_controlConfig-version.cmake)
+Cleaning: (/home/tony/mycobot_ws/devel/.private/mycobot_control/share/mycobot_control/cmake/mycobot_controlConfig.cmake, /home/tony/mycobot_ws/devel/share/mycobot_control/cmake/mycobot_controlConfig.cmake)
+Unlinking: /home/tony/mycobot_ws/devel/lib/pkgconfig/mycobot_control.pc
+Already unlinked: {}
+Unlinking: /home/tony/mycobot_ws/devel/share/mycobot_control/cmake/mycobot_controlConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/tony/mycobot_ws/devel/share/mycobot_control/cmake/mycobot_controlConfig.cmake
+Already unlinked: {}

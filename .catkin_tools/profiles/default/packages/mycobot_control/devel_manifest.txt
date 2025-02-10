@@ -1,0 +1,5 @@
+mycobot_ros/mycobot_control
+/home/tony/mycobot_rl/devel/.private/mycobot_control/cmake.lock /home/tony/mycobot_rl/devel/./cmake.lock
+/home/tony/mycobot_rl/devel/.private/mycobot_control/share/mycobot_control/cmake/mycobot_controlConfig.cmake /home/tony/mycobot_rl/devel/share/mycobot_control/cmake/mycobot_controlConfig.cmake
+/home/tony/mycobot_rl/devel/.private/mycobot_control/share/mycobot_control/cmake/mycobot_controlConfig-version.cmake /home/tony/mycobot_rl/devel/share/mycobot_control/cmake/mycobot_controlConfig-version.cmake
+/home/tony/mycobot_rl/devel/.private/mycobot_control/lib/pkgconfig/mycobot_control.pc /home/tony/mycobot_rl/devel/lib/pkgconfig/mycobot_control.pc

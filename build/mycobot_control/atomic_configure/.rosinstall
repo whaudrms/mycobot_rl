@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tony/mycobot_rl/devel/.private/mycobot_control/setup.sh

@@ -1,0 +1,1 @@
+/home/tony/mycobot_rl/devel/.private/mycobot_move_it_config/lib/pkgconfig/mycobot_move_it_config.pc

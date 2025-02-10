@@ -1,0 +1,5 @@
+mycobot_ros/mycobot_description
+/home/tony/mycobot_rl/devel/.private/mycobot_description/cmake.lock /home/tony/mycobot_rl/devel/./cmake.lock
+/home/tony/mycobot_rl/devel/.private/mycobot_description/share/mycobot_description/cmake/mycobot_descriptionConfig-version.cmake /home/tony/mycobot_rl/devel/share/mycobot_description/cmake/mycobot_descriptionConfig-version.cmake
+/home/tony/mycobot_rl/devel/.private/mycobot_description/share/mycobot_description/cmake/mycobot_descriptionConfig.cmake /home/tony/mycobot_rl/devel/share/mycobot_description/cmake/mycobot_descriptionConfig.cmake
+/home/tony/mycobot_rl/devel/.private/mycobot_description/lib/pkgconfig/mycobot_description.pc /home/tony/mycobot_rl/devel/lib/pkgconfig/mycobot_description.pc

@@ -1,0 +1,6 @@
+devel_space: /home/tony/mycobot_rl/devel
+install: false
+install_space: /home/tony/mycobot_rl/install
+profile: default
+source_space: /home/tony/mycobot_rl/src
+workspace: /home/tony/mycobot_rl
